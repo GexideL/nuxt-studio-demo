@@ -13,7 +13,7 @@
     "@nuxt/content": "3.9.0",
     "better-sqlite3": "^12.5.0",
     "nuxt": "^4.2.2",
-    "nuxt-studio": "1.0.0-alpha.4",
+    "nuxt-studio": "https://pkg.pr.new/nuxt-content/studio/nuxt-studio@eb5334e",
     "vue": "^3.5.25",
     "vue-router": "^4.6.3"
   }
